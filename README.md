@@ -2,7 +2,7 @@
 
 
 # APP GOBARBER
-  A partir do MVCfoi criado passo a passo o processo de autenticação e criação de usuário, por meio do uso do Sequelize para BD,
+  A partir do MVC foi criado passo a passo o processo de autenticação e criação de usuário, por meio do uso do Sequelize para BD,
   configurado em uma base de dados PostgresSQL, usando uma máquina virtual Docker para tal.
 
  ### COMO USAR:
